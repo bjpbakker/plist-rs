@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","The errors that can occur when parsing a property list."]],"type":[["Result","The result type returned when parsing a property list"]]});
